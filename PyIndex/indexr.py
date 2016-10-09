@@ -10,12 +10,14 @@ from util import myutil
 from data import stream
 from data import db
 
-MIN_PATH_CHECK_LEVEL = 3
+MIN_PATH_CHECK_LEVEL = 0
 ESTIMATED_TOTAL_FILE_NUM = 65000
 
 
 def disk_root():
-    return "/Volumes/NO NAME"
+    #return "/Volumes/NO NAME"
+    return "C:\\Users\\Fida\\Desktop\\BCResearchers"
+
 
 
 def not_interested_path(root, path):
@@ -86,7 +88,7 @@ def scan_disk(root, file_begin, file_limit=1000000):
 
 
 def run_main():
-    db.prepare_db()
+    #db.prepare_db()
     scan_disk(disk_root(), 0)
 
 
