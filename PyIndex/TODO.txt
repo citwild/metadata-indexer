@@ -1,0 +1,4 @@
+2015-10-26
+- update/redo a portion like "2014-02-12"
+- add more date without re-scan all over
+- a whilelist - (ignore analysis dir)
