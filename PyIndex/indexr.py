@@ -16,7 +16,8 @@ ESTIMATED_TOTAL_FILE_NUM = 65000
 
 def disk_root():
     #return "/Volumes/NO NAME"
-    return "C:\\Users\\Fida\\Desktop\\BCResearchers"
+    #return "C:\\Users\\Fida\\Desktop\\BCResearchers"
+    return "E:\\2014-02-11"
 
 
 
@@ -88,7 +89,7 @@ def scan_disk(root, file_begin, file_limit=1000000):
 
 
 def run_main():
-    #db.prepare_db()
+    db.prepare_db()
     scan_disk(disk_root(), 0)
 
 
