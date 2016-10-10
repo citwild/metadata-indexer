@@ -1,0 +1,677 @@
+{
+	"files": 
+{
+	"file": "C:\Users\Fida\Desktop\test\BeamCoffer Data Cleanup.docx",
+	"tracks": 
+{
+	"General":
+{
+    "file_extension": "docx",
+    "commercial_name": "ZIP",
+    "other_file_size": [
+        "15.1 KiB",
+        "15 KiB",
+        "15 KiB",
+        "15.1 KiB",
+        "15.14 KiB"
+    ],
+    "other_codec": [
+        "ZIP"
+    ],
+    "codec_url": "http://winzip.com",
+    "file_last_modification_date__local": "2015-11-12 15:47:02.351",
+    "file_creation_date__local": "2016-10-10 07:50:37.863",
+    "kind_of_stream": "General",
+    "file_size": 15500,
+    "folder_name": "C:\\Users\\Fida\\Desktop\\test",
+    "other_format": [
+        "ZIP"
+    ],
+    "file_creation_date": "UTC 2016-10-10 14:50:37.863",
+    "format_url": "http://winzip.com",
+    "format": "ZIP",
+    "internet_media_type": "application/zip",
+    "other_stream_size": [
+        "15.1 KiB (100%)",
+        "15 KiB",
+        "15 KiB",
+        "15.1 KiB",
+        "15.14 KiB",
+        "15.1 KiB (100%)"
+    ],
+    "track_type": "General",
+    "count": "322",
+    "stream_size": 15500,
+    "format_extensions_usually_used": "zip",
+    "count_of_stream_of_this_kind": "1",
+    "file_last_modification_date": "UTC 2015-11-12 22:47:02.351",
+    "stream_identifier": "0",
+    "file_name": "BeamCoffer Data Cleanup",
+    "complete_name": "C:\\Users\\Fida\\Desktop\\test\\BeamCoffer Data Cleanup.docx",
+    "codec": "ZIP",
+    "other_kind_of_stream": [
+        "General"
+    ],
+    "proportion_of_this_stream": "1.00000",
+    "codec_extensions_usually_used": "zip"
+}
+},},{
+	"file": "C:\Users\Fida\Desktop\test\fullpath.txt",
+	"tracks": 
+{
+	"General":
+{
+    "file_extension": "txt",
+    "commercial_name": "MPEG-TS",
+    "other_file_size": [
+        "393 KiB",
+        "393 KiB",
+        "393 KiB",
+        "393 KiB",
+        "393.4 KiB"
+    ],
+    "other_codec": [
+        "MPEG-TS"
+    ],
+    "file_last_modification_date__local": "2016-06-04 08:35:38.000",
+    "format_profile": "No PAT/PMT",
+    "file_creation_date": "UTC 2016-10-10 14:53:11.250",
+    "kind_of_stream": "General",
+    "file_size": 402805,
+    "folder_name": "C:\\Users\\Fida\\Desktop\\test",
+    "file_creation_date__local": "2016-10-10 07:53:11.250",
+    "other_format": [
+        "MPEG-TS"
+    ],
+    "format": "MPEG-TS",
+    "internet_media_type": "video/MP2T",
+    "other_stream_size": [
+        "393 KiB (100%)",
+        "393 KiB",
+        "393 KiB",
+        "393 KiB",
+        "393.4 KiB",
+        "393 KiB (100%)"
+    ],
+    "track_type": "General",
+    "count": "322",
+    "stream_size": 402805,
+    "format_extensions_usually_used": "ts m2t m2s m2ts m4t m4s ts tp trp",
+    "count_of_stream_of_this_kind": "1",
+    "file_last_modification_date": "UTC 2016-06-04 15:35:38.000",
+    "stream_identifier": "0",
+    "file_name": "fullpath",
+    "complete_name": "C:\\Users\\Fida\\Desktop\\test\\fullpath.txt",
+    "codec": "MPEG-TS",
+    "other_kind_of_stream": [
+        "General"
+    ],
+    "proportion_of_this_stream": "1.00000",
+    "codec_extensions_usually_used": "ts m2t m2s m2ts m4t m4s ts tp trp"
+}
+},},{
+	"file": "C:\Users\Fida\Desktop\test\glyphicons-halflings-white.png",
+	"tracks": 
+{
+	"General":
+{
+    "file_extension": "png",
+    "commercial_name": "PNG",
+    "codec_info": "Portable Network Graphic",
+    "image_format_list": "PNG",
+    "other_file_size": [
+        "8.57 KiB",
+        "9 KiB",
+        "8.6 KiB",
+        "8.57 KiB",
+        "8.571 KiB"
+    ],
+    "other_codec": [
+        "PNG"
+    ],
+    "file_last_modification_date__local": "2015-10-26 16:04:08.000",
+    "image_format_withhint_list": "PNG",
+    "kind_of_stream": "General",
+    "file_size": 8777,
+    "folder_name": "C:\\Users\\Fida\\Desktop\\test",
+    "other_format": [
+        "PNG"
+    ],
+    "file_creation_date__local": "2016-10-10 07:52:41.284",
+    "other_stream_size": [
+        "0.00 Byte (0%)",
+        " Byte0",
+        "0.0 Byte",
+        "0.00 Byte",
+        "0.000 Byte",
+        "0.00 Byte (0%)"
+    ],
+    "format": "PNG",
+    "internet_media_type": "image/png",
+    "count_of_image_streams": "1",
+    "codec_extensions_usually_used": "png",
+    "track_type": "General",
+    "count": "322",
+    "stream_size": 0,
+    "format_extensions_usually_used": "png",
+    "count_of_stream_of_this_kind": "1",
+    "file_last_modification_date": "UTC 2015-10-26 23:04:08.000",
+    "stream_identifier": "0",
+    "file_creation_date": "UTC 2016-10-10 14:52:41.284",
+    "proportion_of_this_stream": "0.00000",
+    "codecs_image": "PNG",
+    "complete_name": "C:\\Users\\Fida\\Desktop\\test\\glyphicons-halflings-white.png",
+    "codec": "PNG",
+    "other_kind_of_stream": [
+        "General"
+    ],
+    "format_info": "Portable Network Graphic",
+    "file_name": "glyphicons-halflings-white"
+}
+},{
+	"Image":
+{
+    "commercial_name": "PNG",
+    "height": 159,
+    "other_codec": [
+        "PNG"
+    ],
+    "kind_of_stream": "Image",
+    "other_bit_depth": [
+        "8 bits"
+    ],
+    "bit_depth": 8,
+    "other_compression_mode": [
+        "Lossless"
+    ],
+    "other_stream_size": [
+        "8.57 KiB (100%)",
+        "9 KiB",
+        "8.6 KiB",
+        "8.57 KiB",
+        "8.571 KiB",
+        "8.57 KiB (100%)"
+    ],
+    "format": "PNG",
+    "internet_media_type": "image/png",
+    "other_width": [
+        "469 pixels"
+    ],
+    "format_compression": "LZ77",
+    "other_height": [
+        "159 pixels"
+    ],
+    "track_type": "Image",
+    "count": "118",
+    "stream_size": 8777,
+    "compression_mode": "Lossless",
+    "count_of_stream_of_this_kind": "1",
+    "stream_identifier": "0",
+    "width": 469,
+    "other_resolution": [
+        "8 bits"
+    ],
+    "proportion_of_this_stream": "1.00000",
+    "codec": "PNG",
+    "other_kind_of_stream": [
+        "Image"
+    ],
+    "resolution": 8,
+    "format_info": "Portable Network Graphic"
+}
+},},{
+	"file": "C:\Users\Fida\Desktop\test\MeetingInvite.JPG",
+	"tracks": 
+{
+	"General":
+{
+    "file_extension": "JPG",
+    "commercial_name": "JPEG",
+    "image_format_list": "JPEG",
+    "other_file_size": [
+        "47.3 KiB",
+        "47 KiB",
+        "47 KiB",
+        "47.3 KiB",
+        "47.31 KiB"
+    ],
+    "other_codec": [
+        "JPEG"
+    ],
+    "file_last_modification_date__local": "2016-10-07 15:02:08.129",
+    "file_name": "MeetingInvite",
+    "image_format_withhint_list": "JPEG",
+    "kind_of_stream": "General",
+    "file_size": 48448,
+    "folder_name": "C:\\Users\\Fida\\Desktop\\test",
+    "other_format": [
+        "JPEG"
+    ],
+    "file_creation_date__local": "2016-10-08 15:50:22.539",
+    "other_stream_size": [
+        "0.00 Byte (0%)",
+        " Byte0",
+        "0.0 Byte",
+        "0.00 Byte",
+        "0.000 Byte",
+        "0.00 Byte (0%)"
+    ],
+    "format": "JPEG",
+    "internet_media_type": "image/jpeg",
+    "count_of_image_streams": "1",
+    "track_type": "General",
+    "count": "322",
+    "stream_size": 0,
+    "format_extensions_usually_used": "jpeg jpg jpe",
+    "count_of_stream_of_this_kind": "1",
+    "file_last_modification_date": "UTC 2016-10-07 22:02:08.129",
+    "stream_identifier": "0",
+    "file_creation_date": "UTC 2016-10-08 22:50:22.539",
+    "codecs_image": "JPEG",
+    "complete_name": "C:\\Users\\Fida\\Desktop\\test\\MeetingInvite.JPG",
+    "codec": "JPEG",
+    "other_kind_of_stream": [
+        "General"
+    ],
+    "proportion_of_this_stream": "0.00000",
+    "codec_extensions_usually_used": "jpeg jpg jpe"
+}
+},{
+	"Image":
+{
+    "commercial_name": "JPEG",
+    "height": 387,
+    "other_codec": [
+        "JPEG"
+    ],
+    "kind_of_stream": "Image",
+    "other_bit_depth": [
+        "8 bits"
+    ],
+    "bit_depth": 8,
+    "other_compression_mode": [
+        "Lossy"
+    ],
+    "other_stream_size": [
+        "47.3 KiB (100%)",
+        "47 KiB",
+        "47 KiB",
+        "47.3 KiB",
+        "47.31 KiB",
+        "47.3 KiB (100%)"
+    ],
+    "format": "JPEG",
+    "internet_media_type": "image/jpeg",
+    "color_space": "YUV",
+    "other_height": [
+        "387 pixels"
+    ],
+    "track_type": "Image",
+    "count": "118",
+    "stream_size": 48448,
+    "chroma_subsampling": "4:2:0",
+    "compression_mode": "Lossy",
+    "count_of_stream_of_this_kind": "1",
+    "stream_identifier": "0",
+    "width": 1301,
+    "other_resolution": [
+        "8 bits"
+    ],
+    "codec": "JPEG",
+    "other_width": [
+        "1 301 pixels"
+    ],
+    "resolution": 8,
+    "proportion_of_this_stream": "1.00000",
+    "other_kind_of_stream": [
+        "Image"
+    ]
+}
+},},{
+	"file": "C:\Users\Fida\Desktop\test\Snapchat-611727181260144305.mp4",
+	"tracks": 
+{
+	"General":
+{
+    "file_extension": "mp4",
+    "other_codec": [
+        "MPEG-4"
+    ],
+    "file_last_modification_date__local": "2015-06-23 18:30:01.000",
+    "codec_id_url": "http://www.apple.com/quicktime/download/standalone.html",
+    "file_creation_date": "UTC 2016-10-10 14:51:56.841",
+    "codec_id": "mp42",
+    "video_format_withhint_list": "AVC",
+    "codecid_compatible": "isom/mp42",
+    "video_language_list": "English",
+    "video_format_list": "AVC",
+    "folder_name": "C:\\Users\\Fida\\Desktop\\test",
+    "other_duration": [
+        "10 s 27 ms",
+        "10 s 27 ms",
+        "10 s 27 ms",
+        "00:00:10.027",
+        "00:00:10;00",
+        "00:00:10.027 (00:00:10;00)"
+    ],
+    "file_creation_date__local": "2016-10-10 07:51:56.841",
+    "footersize": "6281",
+    "format": "MPEG-4",
+    "isstreamable": "No",
+    "frame_rate": "29.970",
+    "track_type": "General",
+    "count": "322",
+    "audio_codecs": "AAC LC",
+    "duration": 10027,
+    "count_of_stream_of_this_kind": "1",
+    "stream_identifier": "0",
+    "datasize": "21504081",
+    "count_of_video_streams": "1",
+    "other_overall_bit_rate": [
+        "17.2 Mb/s"
+    ],
+    "file_name": "Snapchat-611727181260144305",
+    "audio_format_withhint_list": "AAC",
+    "frame_count": "300",
+    "audio_language_list": "English",
+    "codecs_video": "AVC",
+    "codec_extensions_usually_used": "mp4 m4v m4a m4b m4p 3gpp 3gp 3gpp2 3g2 k3g jpm jpx mqv ismv isma f4v",
+    "commercial_name": "MPEG-4",
+    "other_codec_id": [
+        "mp42 (isom/mp42)"
+    ],
+    "other_file_size": [
+        "20.5 MiB",
+        "21 MiB",
+        "21 MiB",
+        "20.5 MiB",
+        "20.51 MiB"
+    ],
+    "audio_format_list": "AAC",
+    "format_profile": "Base Media / Version 2",
+    "encoded_date": "UTC 2015-06-24 01:29:58",
+    "kind_of_stream": "General",
+    "overall_bit_rate": 17161972,
+    "other_frame_rate": [
+        "29.970 FPS"
+    ],
+    "file_size": 21510386,
+    "count_of_audio_streams": "1",
+    "other_format": [
+        "MPEG-4"
+    ],
+    "other_stream_size": [
+        "6.17 KiB (0%)",
+        "6 KiB",
+        "6.2 KiB",
+        "6.17 KiB",
+        "6.165 KiB",
+        "6.17 KiB (0%)"
+    ],
+    "internet_media_type": "video/mp4",
+    "stream_size": 6313,
+    "format_extensions_usually_used": "mp4 m4v m4a m4b m4p 3gpp 3gp 3gpp2 3g2 k3g jpm jpx mqv ismv isma f4v",
+    "file_last_modification_date": "UTC 2015-06-24 01:30:01.000",
+    "tagged_date": "UTC 2015-06-24 01:29:58",
+    "complete_name": "C:\\Users\\Fida\\Desktop\\test\\Snapchat-611727181260144305.mp4",
+    "headersize": "24",
+    "codec": "MPEG-4",
+    "other_kind_of_stream": [
+        "General"
+    ],
+    "proportion_of_this_stream": "0.00029"
+}
+},{
+	"Video":
+{
+    "source_streamsize_proportion": "0.98478",
+    "other_track_id": [
+        "1"
+    ],
+    "display_aspect_ratio": "1.778",
+    "source_stream_size": 21183086,
+    "codec_id": "avc1",
+    "format_settings__cabac": "Yes",
+    "stream_identifier": "0",
+    "track_id": 1,
+    "language": "en",
+    "frame_rate": "29.970",
+    "codec_id_info": "Advanced Video Coding",
+    "track_type": "Video",
+    "other_format_settings__reframes": [
+        "1 frame"
+    ],
+    "mdhd_duration": "10005",
+    "other_scan_type": [
+        "Progressive"
+    ],
+    "frame_rate_mode": "VFR",
+    "sampled_height": "1080",
+    "codec_settings__cabac": "Yes",
+    "bit_rate": 16929522,
+    "other_width": [
+        "1 920 pixels"
+    ],
+    "colorimetry": "4:2:0",
+    "format_info": "Advanced Video Codec",
+    "commercial_name": "AVC",
+    "other_frame_rate_mode": [
+        "Variable"
+    ],
+    "source_frame_count": "300",
+    "format_profile": "High@L4",
+    "other_bit_rate": [
+        "16.9 Mb/s"
+    ],
+    "encoded_date": "UTC 2015-06-24 01:29:58",
+    "other_rotation": [
+        "90\u00b0"
+    ],
+    "codec_family": "AVC",
+    "other_source_stream_size": [
+        "20.2 MiB (98%)",
+        "20 MiB",
+        "20 MiB",
+        "20.2 MiB",
+        "20.20 MiB",
+        "20.2 MiB (98%)"
+    ],
+    "format_url": "http://developers.videolan.org/x264.html",
+    "internet_media_type": "video/H264",
+    "other_source_duration": [
+        "10 s 7 ms",
+        "10 s 7 ms",
+        "10 s 7 ms",
+        "00:00:10.007"
+    ],
+    "bit_depth": 8,
+    "codec_settings_refframes": "1",
+    "stream_size": 21183086,
+    "format_settings__gop": "M=1, N=30",
+    "interlacement": "PPF",
+    "width": 1920,
+    "framerate_num": "29970",
+    "proportion_of_this_stream": "0.98478",
+    "other_resolution": [
+        "8 bits"
+    ],
+    "format_settings": "CABAC / 1 Ref Frames",
+    "other_interlacement": [
+        "Progressive"
+    ],
+    "codec": "AVC",
+    "other_minimum_frame_rate": [
+        "28.481 FPS"
+    ],
+    "other_frame_rate": [
+        "29.970 (29970/1000) FPS"
+    ],
+    "other_duration": [
+        "10 s 5 ms",
+        "10 s 5 ms",
+        "10 s 5 ms",
+        "00:00:10.005",
+        "00:00:10;00",
+        "00:00:10.005 (00:00:10;00)"
+    ],
+    "codec_info": "Advanced Video Codec",
+    "other_codec": [
+        "AVC"
+    ],
+    "codec_url": "http://developers.videolan.org/x264.html",
+    "codec_profile": "High@L4",
+    "scan_type": "Progressive",
+    "format": "AVC",
+    "source_duration": 10007,
+    "stored_height": "1088",
+    "streamorder": "0",
+    "maximum_frame_rate": "30.151",
+    "other_height": [
+        "1 080 pixels"
+    ],
+    "other_format_settings__cabac": [
+        "Yes"
+    ],
+    "duration": 10005,
+    "count_of_stream_of_this_kind": "1",
+    "frame_count": "300",
+    "title": "VideoHandle",
+    "tagged_date": "UTC 2015-06-24 01:29:58",
+    "codec_settings": "CABAC / 1 Ref Frames",
+    "height": 1080,
+    "bits__pixel_frame": "0.272",
+    "sampled_width": "1920",
+    "kind_of_stream": "Video",
+    "other_maximum_frame_rate": [
+        "30.151 FPS"
+    ],
+    "other_bit_depth": [
+        "8 bits"
+    ],
+    "other_display_aspect_ratio": [
+        "16:9"
+    ],
+    "other_stream_size": [
+        "20.2 MiB (98%)",
+        "20 MiB",
+        "20 MiB",
+        "20.2 MiB",
+        "20.20 MiB",
+        "20.2 MiB (98%)"
+    ],
+    "color_space": "YUV",
+    "count": "335",
+    "other_chroma_subsampling": [
+        "4:2:0"
+    ],
+    "chroma_subsampling": "4:2:0",
+    "codec_cc": "avc1",
+    "rotation": "90.000",
+    "format_settings__reframes": 1,
+    "pixel_aspect_ratio": "1.000",
+    "other_language": [
+        "English",
+        "English",
+        "en",
+        "eng",
+        "en"
+    ],
+    "minimum_frame_rate": "28.481",
+    "other_kind_of_stream": [
+        "Video"
+    ],
+    "resolution": 8,
+    "framerate_den": "1000"
+}
+},{
+	"Audio":
+{
+    "other_bit_rate_mode": [
+        "Constant"
+    ],
+    "other_codec": [
+        "AAC LC"
+    ],
+    "commercial_name": "AAC",
+    "codec_id": "40",
+    "channel_s": 2,
+    "channel_positions": "Front: L R",
+    "other_duration": [
+        "10 s 27 ms",
+        "10 s 27 ms",
+        "10 s 27 ms",
+        "00:00:10.027",
+        "00:00:10:00",
+        "00:00:10.027 (00:00:10:00)"
+    ],
+    "other_channel_s": [
+        "2 channels"
+    ],
+    "format": "AAC",
+    "track_id": 2,
+    "language": "en",
+    "streamorder": "1",
+    "frame_rate": "46.875",
+    "track_type": "Audio",
+    "count": "272",
+    "other_channel_positions": [
+        "2/0/0"
+    ],
+    "channellayout": "L R",
+    "count_of_stream_of_this_kind": "1",
+    "stream_identifier": "0",
+    "frame_count": "470",
+    "bit_rate": 256000,
+    "tagged_date": "UTC 2015-06-24 01:29:58",
+    "title": "SoundHandle",
+    "format_info": "Advanced Audio Codec",
+    "samples_per_frame": "1024",
+    "other_track_id": [
+        "2"
+    ],
+    "format_profile": "LC",
+    "other_bit_rate": [
+        "256 kb/s"
+    ],
+    "encoded_date": "UTC 2015-06-24 01:29:58",
+    "kind_of_stream": "Audio",
+    "sampling_rate": 48000,
+    "other_language": [
+        "English",
+        "English",
+        "en",
+        "eng",
+        "en"
+    ],
+    "codec_family": "AAC",
+    "other_compression_mode": [
+        "Lossy"
+    ],
+    "other_stream_size": [
+        "313 KiB (1%)",
+        "313 KiB",
+        "313 KiB",
+        "313 KiB",
+        "313.5 KiB",
+        "313 KiB (1%)"
+    ],
+    "other_sampling_rate": [
+        "48.0 kHz"
+    ],
+    "stream_size": 320987,
+    "bit_rate_mode": "CBR",
+    "compression_mode": "Lossy",
+    "codec_cc": "40",
+    "samples_count": "481296",
+    "duration": 10027,
+    "proportion_of_this_stream": "0.01492",
+    "codec": "AAC LC",
+    "other_kind_of_stream": [
+        "Audio"
+    ],
+    "other_frame_rate": [
+        "46.875 FPS (1024 spf)"
+    ]
+}
+},},
+}

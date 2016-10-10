@@ -1,6 +1,7 @@
 import os
 import sys
 import time
+import json
 from pprint import pprint
 from pymediainfo import MediaInfo
 
@@ -15,10 +16,14 @@ def print_frame(text):
 
 def scan_file(full_file_path):
     media_info = MediaInfo.parse(full_file_path)
-    for track in media_info.tracks:
-        print_frame(track.track_type)
-        pprint(track.to_data())
-
+    with open('data.json', 'a') as fp:
+        fp.write("{\n\t\"file\": \"" + full_file_path + "\",\n")
+        fp.write("\t\"tracks\": \n")
+        for track in media_info.tracks:
+            fp.write("{\n\t\""+(track.track_type)+"\":\n")
+            json.dump(track.to_data(), fp, indent=4)
+            fp.write("\n},")
+        fp.write("},")
 
 
 def scan_disk(root, file_begin, file_limit=1000000):
@@ -30,6 +35,8 @@ def scan_disk(root, file_begin, file_limit=1000000):
     file_end = file_begin + file_limit
     last_time = time.time()
     prof_round = 20  # check time for each round
+    with open('data.json', 'a') as fp:
+        fp.write("{\n\t\"files\": \n")
     for dir_, dir_names, file_names in os.walk(root):
         for file_name in file_names:
             file_count += 1
@@ -49,6 +56,10 @@ def scan_disk(root, file_begin, file_limit=1000000):
             break
 
     end_time = time.time()
+    with open('data.json', 'a') as fp:
+        #filehandle.seek(-1, os.SEEK_END)
+        #filehandle.truncate()
+        fp.write("\n}")
     print ("Scanned", file_count, "files in", \
         end_time - start_time)
 
