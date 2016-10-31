@@ -17,7 +17,8 @@ ESTIMATED_TOTAL_FILE_NUM = 65000
 def disk_root():
     #return "/Volumes/NO NAME"
     #return "C:\\Users\\Fida\\Desktop\\BCResearchers"
-    return "E:\\2014-02-11"
+    # return "E:\\2014-02-11"
+    return "F:\BeamCoffer dataset\Thumbnails"
 
 
 

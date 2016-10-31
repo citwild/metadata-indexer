@@ -4565,7 +4565,8 @@
  'title': 'Stereo',
  'track_id': 2,
  'track_type': 'Audio'}
-Scanning 20 (at about 0.030769 %) .. Avg speed: 0.189179 s/item. Estimated time for 10k items: 1891.788006 s+---------+
+Scanning 20 (at about 0.030769 %) .. Avg speed: 0.189179 s/item. Estimated time for 10k items: 1891.788006 s
++---------+
 | General |
 +---------+
 {'audio_codecs': 'AAC LC',
