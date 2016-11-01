@@ -42,7 +42,7 @@ class StreamFile():
     def parse_media(self):
         self.mtime_end = os.path.getmtime(self.file_path)
         if myutil.match_type(self.file_path, ["jpg"]):
-            self.media_type = "Thumbnail"
+            self.media_type = "Image"
         elif myutil.match_type(self.file_path, ["mp4", "mts", "lrv"]):
             self.media_type = "Video"
         elif myutil.match_type(self.file_path, ["wav"]):
@@ -62,7 +62,7 @@ class StreamFile():
             elif track.track_type == "Audio":
                 self.duration = track.duration
                 break
-            elif track.track_type == "Thumbnail":
+            elif track.track_type == "Image":
                 self.video_width = track.width
                 self.video_height = track.height
                 self.duration = -1
@@ -72,7 +72,7 @@ class StreamFile():
     def parse_name(self):
         path_parts = self.file_path.split(os.sep)
         date_pat = re.compile("^[\d]{4}-[\d]{2}-[\d]{2}$")
-        loc_pat = re.compile("(PS [A-Z]|Huddle)")
+        loc_pat = re.compile("(PS [A-Z]|Full room|Huddle|WB wall)")
         comp_pat = re.compile("Compressed")
         equip_pat1 = re.compile("gopro|([\d]+gopro)", re.IGNORECASE)
         equip_pat2 = re.compile("zoom", re.IGNORECASE)
