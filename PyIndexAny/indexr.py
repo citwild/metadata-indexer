@@ -15,8 +15,7 @@ ESTIMATED_TOTAL_FILE_NUM = 65000
 
 
 def disk_root():
-    # return "C:\\Users\\Fida\\Desktop\\BCResearchers"
-    return "F:\BeamCoffer dataset\Thumbnails"
+    return "C:\\Users\\Fida\\Desktop\\BCResearchers"
 
 
 def not_interested_path(root, path):
